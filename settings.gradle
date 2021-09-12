@@ -1,0 +1,2 @@
+rootProject.name='ToDoApp_by_command'
+include ':app'
